@@ -91,6 +91,7 @@ The Fake-News-BERT model is a deep learning model fine-tuned for misinformation 
 ## Contributors
 - **Dakshya** - [GitHub](https://github.com/Dakshya52) | [LinkedIn](https://www.linkedin.com/in/dakshya-chauhan-942920261/)
 - **Dhruv** - [GitHub](https://github.com/dhruvpal05) | [LinkedIn](https://linkedin.com/in/idhruvpal)
+- **Dipanshu** - [GitHub](https://github.com/Dipanshu2585) | [LinkedIn](https://linkedin.com/in/idhruvpal)
 
 ## License
 This project is open-source and available under the MIT License.
